@@ -1,0 +1,30 @@
+---
+court: "Utah Supreme Court"
+docket: "8294"
+decided: "1955-08-10"
+citations: ["4 Utah 2d 67", "286 P.2d 1059"]
+reporter: "utah-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McDonough c. j., and crockett, WADE and WORTHEN, JJ., concur."]
+parties: ["Steven L. WEST, Plaintiff and Respondent, v. Miles N. ANDERSON et al., Defendants and Appellants."]
+source_url: "https://static.case.law/utah-2d/4/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8867614
+cites_cases: ["148 Tex. 175", "222 S.W.2d 995"]
+---
+
+# West v. Anderson
+
+## Majority (HENRIOD, Justice.)
+
+HENRIOD, Justice.
+Appeal from a judgment in plaintiff’s favor, entered after a jury found defendant negligent in failing to see to it that one of its customer’s trucks, being loaded with coal was safely braked or blocked. Reversed as to appellants. Costs to appellant.
+Plaintiff and the Andersons (defendants found negligent, but who did not appeal) were independent coal truckers who came to defendant’s (the American Coal Co.) mine for coal. Driver of the Anderson truck, who was a son of one of the Andersons, had backed the truck to a position alongside a pile of slack or dust coal situate on defendant’s rather remote canyon property, in a more or less flat area, which, however, did have a downgrade slope of 6%. The truck faced downgrade and the wheels were cramped leftward toward an area that also was somewhat downgrade. The driver testified that he set the emergency brake, put the car in low gear and left it in order to avoid the fine coal dust in the vicinity produced when dust coal was being handled.
+One Cox, defendant’s loader, who had been so employed for about two years, using a scoopmobile, had loaded 2 or 3 tons of coal in the truck, when the latter started to move, travelling comparatively slowly in an arc-like course, running over plaintiff, who, while waiting his turn to load, had leaned against or was reclining upon a pile of coal some 40 or 50 feet to the left, downgrade, and across the road, from the truck. He had placed his hat over his eyes and failed to observe the truck until it was upon him. He heard no warning although Cox testified that he shouted at the plaintiff before the truck ran over him. Cox further stated that he had never seen a truck break loose as this one did on defendant’s property, and that it was not unusual for truckers to leave the cabs of their trucks when loading dust coal. Truckers waiting to load could wait anywhere on defendant’s property that they chose.
+For the purposes of this case the defendants Anderson are assumed to have been negligent. The only question necessary to decide is whether defendant, on whose property plaintiff came as a business invitee, violated any duty of care it owed plaintiff by failing to check and set the Anderson truck’s brakes or by otherwise failing to make said truck secure while being loaded, the jury’s finding being based solely on the assumption that there was a violation of such duty and that such duty was owed to plaintiff.
+When business is carried on as was done here, where truck owners customarily come to load and haul coal, one reasonably should be permitted to assume, without liability, that truckers non-negligently will operate their equipment, and that they will take reasonable precautions for their own protection against injury from the equipment of fellow truckers, unless circumstances are far different than those attending this case, where, even though a 6% grade may be involved, the locale represents a rather isolated and spacious area where one easily could protect himself against a vehicle’s downgrade movement, and where the actors are acquainted with equipment and quite cognizant of dangers common to all present. To assume, under such circumstances that it is reasonable to foresee that in a spacious, uncrowded area, one business invitee will be negligent in operating his equipment and that another invitee will cover his eyes so as to be unable to see and protect against such negligence, would be to stretch the concept of liability by failure to protect against reasonable foreseeable injury, to a degree heretofore unannounced in our law.
+We believe that Humble Oil & Refining Co. v. Martin, 148 Tex. 175, 222 S.W.2d 995, upon which plaintiff so heavily relies, involving a service station, a city, unsuspecting pedestrians, no question as to business invitation, etc., is so different factually as to be no authority here. Furthermore, we are of the opinion that under the facts of our instant case, defendant would not be accountable under the very principles announced by Prosser and subscribed to and quoted by plaintiff as follows:
+“There are many situations in which the hypothetical reasonable man would be expected to anticipate and guard against the conduct of others. Anyone with normal experience is required to have knowledge of the traits and habits of common animals, and of other human beings, and to govern himself accordingly * * *. In general, where the risk is relatively slight, he is free to proceed upon the assumption that other people will exercise proper care * * *. But when the risk becomes a serious one, either because the threatened harm is great, or because there is an especial likelihood that it will occur, reasonable care must demand precautions against that occasional negligence which is one of the ordinary incidents of human life, and therefore, to be anticipated.”
+It appears to us that the risk of bodily injury in this case, where there were but few people about and where safety from a moving vehicle could be found in almost every direction of the compass, was most slight, and the risk of harm was not a serious one because the threatened harm was great, for the reason that the threatened harm existed only in the path of a vehicle which ordinarily would not move, out of which path safe, quick and easy egress could be effected, thus excluding any idea that there was any great threat of harm.
+McDonough c. j., and crockett, WADE and WORTHEN, JJ., concur.
