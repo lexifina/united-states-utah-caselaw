@@ -1,0 +1,32 @@
+---
+court: "Utah Supreme Court"
+docket: "8421"
+decided: "1956-04-16"
+citations: ["5 Utah 2d 42", "296 P.2d 289"]
+reporter: "utah-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CROCKETT, HENRIOD, WADE and WORTHEN, JJ., concur."]
+parties: ["STATE of Utah, Plaintiff and Respondent, v. Gordon S. LITTLE, Defendant and Appellant."]
+source_url: "https://static.case.law/utah-2d/5/cases/0042-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8865420
+cites_cases: ["105 Utah 151", "105 Utah 162", "114 Utah 202", "119 P. 1023", "165 Wash. 612", "2 Utah 2d 34", "40 Utah 56", "5 P.2d 1040", "59 Utah 39", "73 Utah 104"]
+---
+
+# State v. Little
+
+## Majority (McDonough, chief justice.)
+
+McDonough, chief justice.
+Gordon S. Little was charged jointly with Albert R. Haskins with the crimes of burglary in the second degree in breaking and entering Theurer’s Store in Richmond, Utah, and grand larceny in taking from those premises goods valued in excess of fifty dollars. Haskins pleaded guilty to the information; Little stood trial alone and was convicted of both offenses.
+Mr. Little prepared his own brief on appeal and argued the case before us without benefit of counsel, and we have examined the record with respect to errors alleged although the lack of merit in many of his contentions will not justify discussion of them in this opinion.
+As to the charge of burglary, appellant contends there is insufficient evidence to connect him with the crime. The chief evidence against him was a crowbar found in luggage which he had checked through to Twin Falls, Idaho, on a bus which he took to that city. An expert testified that the bar showed smears of paint consisting of four layers which were identical in color, texture and composition with four layers of paint found on a wood sample taken from the door of Theurer’s Store. Appellant testified that he had no knowledge of the contents of the suitcase from which the bar was taken since he had merely checked the bag as a convenience to Haskins. However, the State impeached his testimony by the introduction of a slip of paper containing a list of other articles in the bag, which was taken from his person at the time of his incarceration. Certainly there was sufficient evidence to go to the jury concerning his implication in the burglary and the jury found him guilty.
+As to the second count, grand larceny, appellant complains that articles in Haskins’ possession were introduced in evidence against him, although they were not properly identified as items stolen from the Theurer Store nor was a value placed on each item. Mr. Theurer testified that the value of goods taken was a minimum of $200; he identified certain items by price tags placed upon them by himself or his employees. This positive identification is not rendered less positive by the fact that Mr. Theurer was a cautious witness and stated that he could not identify other merchandise, such as shirts and socks which had not been price-tagged in his store, although he carried the particular brand in his stock.
+The court instructed the jury:
+' ‘One who is found in .the possession of stolen property is bound to explain such possession in order to remove the effect of that fact as a circumstance, to be considered with all other evidence, pointing to his guilt, and if he gives a false account of how he acquired that possession or, having reasonable opportunity to show that his possession was honestly acquired, he refuses or fails to do so, such conduct is a circumstance which might, with all other circumstances, be considered in determining whether or not the jury is convinced beyond a reasonable doubt of the defendant’s guilt.
+“You are further instructed that should you find from the evidence and beyond a reasonable doubt that the defendant and Haskins both broke into the Theurer Store, both removed certain property therefrom, and were then and there jointly engaged in the commission of a felony, then the law permits you to draw the inference, if you so choose, that the possession (thereafter) by either of said defendants of any of the property stolen is the possession of both.”
+The first paragraph follows the statute, U.C.A.19S3, 76-38-1, and the decided cases, State v. Crowder, 114 Utah 202, 197 P.2d 917; State v. Hall, 105 Utah 151, 139 P.2d 228, reversed on other grounds on rehearing 105 Utah 162, 145 P.2d 494. The second paragraph permits the inference of possession by both where only one of two proven conspirators in crime has actual possession. State v. Bengson, 165 Wash. 612, 5 P.2d 1040; State v. Crawford, 59 Utah 39, 201 P. 1030. There must, of course, be something else in the evidence to connect defendant with the offense. In addition to the evidence sufficient to connect appellant with the burglary, there is other evidence, in the record demonstrating a singleness of purpose between appellant and Haskins. They arrived in Richmond from Boise on the same day; they rented a motel room and an automobile together; the automobile was identified at the time and place of 'the crime; the appellant had in his possession the key to Haskins’ luggage which contained the stolen property; Haskins and the appellant were seen by a number of witnesses together both before and after the crime; they left Richmond together. The jury was justified in finding that the two acted in concert in committing the crimes.
+Finally, appellant attacks the larceny statute, U.C.A.1953, 76-38-1, as unconstitutionally placing the burden upon the defendant to explain satisfactorily the possession of stolen goods. This contention has been rejected by this court numerous' times. State v. Potello, 40 Utah 56, 119 P. 1023; State v. Mellor, 73 Utah 104, 272 P. 635; State v. Wood, 2 Utah 2d 34, 268 P.2d 998. The burden of proving guilt remains at all times with the state and the state must prove not only the larceny and recent possession but also that defendant failed to make a satisfactory explanation of his possession. The fact of possession of stolen property, together with the lack of a satisfactory explanation, is a matter which the jury may consider in determining whether or not the state has met the burden of proving the defendant guilty beyond reasonable doubt. The jury in the present case were properly instructed and found the appellant guilty.
+Judgment affirmed.
+CROCKETT, HENRIOD, WADE and WORTHEN, JJ., concur.
