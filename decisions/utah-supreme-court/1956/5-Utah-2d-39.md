@@ -1,0 +1,35 @@
+---
+court: "Utah Supreme Court"
+docket: "8399"
+decided: "1956-04-16"
+citations: ["5 Utah 2d 39", "296 P.2d 287"]
+reporter: "utah-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CROCKETT, WADE, HENRIOD, and WORTHEN, JJ., concur."]
+parties: ["YOSHITARO OKUDA and Jack Aramaki, the sole heirs of Kim Aramaki Okuda, deceased, Plaintiffs and Appellants, v. Jerry A. ROSE, Defendant and Respondent."]
+source_url: "https://static.case.law/utah-2d/5/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8865375
+cites_cases: ["1 Utah 2d 79", "20 Utah 134", "249 P.2d 213", "3 Utah 2d 203", "3 Utah 2d 354", "58 P. 355"]
+---
+
+# Yoshitaro Okuda v. Rose
+
+## Majority (McDONOUGH, Chief Justice.)
+
+McDONOUGH, Chief Justice.
+A jury returned a verdict of no cause of action in a suit to recover for the death of Kim Aramaki Okuda, which occurred when Mrs. Okuda was struck by defendant’s automobile. Plaintiffs complain that the trial court committed prejudicial error in failing to instruct that decedent was presumed to be acting with due care for her own safety and also in giving Instruction No. 7, pertaining to contributory negligence, when, they claim, there is no evidence showing any negligence on the part of Mrs. Okuda.
+Since the appeal is limited to the question of the decedent’s contributory negligence, the facts may be considerably simplified. Defendant, driving his car along Main Street at about 2200 South in Salt Lake City, at about 1:30 a. m., heard something strike his windshield, ducked, and then felt a thud as though he had struck something. He stopped his car and discovered the body of Mrs. Okuda lying on the shoulder of the highway. He testified that he did not see her prior to that time and that his car did not leave the concrete portion of the highway at any time. However, a witness for plaintiffs, an officer investigating the accident, testified that Mr. Rose made the statement to him at that time that he had swerved his car when the object struck his windshield. Another officer testified that the car at the time of investigation was parked on the shoulder on an angle with the back end farther from the roadway than the front end.
+As to tire first point on appeal, plaintiffs were not entitled to an instruction that the decedent was presumed to be acting with due care for her own safety. The trial court instructed that the defendant had the burden of proving his affirmative assertion of contributory negligence by a preponderance of the evidence, and it has been indicated that there is no need to give an instruction to emphasize the burden of going forward with evidence where 'the defendant also has the burden of persuasion, as here. Gibbs v. Blue Cab, Utah, 249 P.2d 213. In fact, it is said in Mecham v. Allen, 1 Utah 2d 79, 262 P.2d 285, 291:
+“ * * * Thus defendant not only had the burden of going forward with the evidence but of persuading the jury on that issue. So in cases where the question of proving contributory negligence is involved this presumption can never be of any aid to the representatives of the deceased, because their opponent without the presumption has the burden of persuading the jury that he was guilty of such negligence which is a greater burden than and includes the burden of going forward with the evidence.”
+The Instruction which was given on contributory negligence to which appellants object reads :
+“You are instructed that the deceased in the exercise of ordinary care, and in order not to be guilty herself of contributory negligence, was governed by the following rules of law at the time and place in question.
+“1. You are instructed that it was the duty of the deceased in undertaking to cross the highway, if you should believe that she was so doing, to keep-a reasonable and adequate lookout for automobiles using the street and to use reasonable and ordinary care to keep out of the way of such automobiles. In this connection it was her duty to look and observe whether there were any automobiles in such close proximately (sic) as to affect her safety and to continue to keep such a reasonable and prudent lookout as was reasonably necessary for her own protection.
+“2. You are instructed that if you find from the evidence that the deceased was crossing the street at the time of the accident, or was commencing to cross the street and continued on, it was her duty to exercise ordinary care to ascertain her surroundings and the vehicles upon the highway at said time and not to remain in a place of danger, or otherwise fail to exercise reasonable and ordinary care for her own safety.
+“3. You are instructed that a pedestrian crossing a roadway at any point other than within a marked crosswalk, or within an unmarked crosswalk at an-intersection should yield the right of' way to all vehicles lawfully upon the highway. Therefore, it was the duty of said deceased to yield the right of ' way to vehicles upon the street if you find that she was crossing or commencing to cross the street under the above circumstances. ■ ,
+“4. You are instructed that it is unlawful for any person to walk upon a roadway where sidewalks are provided adjacent to the highway.
+“You are, therefore, instructed that if you find by a preponderance of the evidence that the deceased failed to observe any of the above rules of law respecting her conduct and that her failure proximately contributed to the happening of the collision then and in that event the plaintiffs herein would not be entitled to recover for her death.”
+There is no direct evidence in this case as to just what the decedent was doing at the time she was struck; the jury was required to make that determination from circumstantial evidence. They may have believed defendant’s testimony that his car did not leave the traveled portion of the highway, noted the evidence that Mrs. Okuda was dressed entirely in black, inferred that she was struck in the roadway and her body tossed by the impact to the shoulder. Therefore, by merely being in the path of automobiles on a heavily traveled, but poorly lighted street, they could conclude, she was guilty of contributory negligence regardless of whether she was attempting to cross the street or walking in an area reserved for vehicular traffic. Such inferences have always been held proper determinations for the jury to make. Hewitt v. General Tire & Rubber Co., 3 Utah 2d 354, 284 P.2d 471; Rogalski v. Phillips Petroleum Co., 3 Utah 2d 203, 282 P.2d 304. Whenever there is uncertainty as to the existence of negligence or contributory negligence, the question is one of fact to be settled by a jury, regardless of whether the uncertainty occurs because of a conflict of evidence or because from the facts men might honestly draw different conclusions. Linden v. Anchor Min. Co., 20 Utah 134, 58 P. 355.
+The judgment xs affirmed. Costs to respondent.
+CROCKETT, WADE, HENRIOD, and WORTHEN, JJ., concur.
