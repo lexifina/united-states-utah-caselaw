@@ -1,0 +1,32 @@
+---
+court: "Utah Supreme Court"
+docket: "8459"
+decided: "1957-11-04"
+citations: ["7 Utah 2d 21", "317 P.2d 592"]
+reporter: "utah-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CROCKETT, WADE, WORTHEN and HENRIOD, JJ., concur."]
+parties: ["DEER TRAIL MINES, Plaintiff and Respondent, v. Louis C. DELUKE, Defendant and Appellant. Louis C. DELUKE, Plaintiff and Appellant, v. John W. WILHELM, Defendant and Respondent."]
+source_url: "https://static.case.law/utah-2d/7/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8860288
+---
+
+# Deer Trail Mines v. Deluke
+
+## Majority (McDONOUGH, Chief Justice.)
+
+McDONOUGH, Chief Justice.
+Appeal from the judgment of the court below in two actions in one of which respondent Deer Trail Mines brought an action against the appellant Deluke for unlawful detainer of mining properties held by appellant, and in the other appellant commenced an action for specific performance of a contract between the respondent and others and the appellant. For the sake of clarity, the parties will be referred to by name.
+The disagreements between the litigants arose out of their efforts to control certain mining properties and stock in a mining corporation. In an attempt to settle the issues the parties entered into a series of agreements during February, 1952. At trial of this case it was stipulated by attorneys for the parties that the sole issue for determination of the trial court was whether or not Deer Trail Mines and Wilhelm had performed paragraph 5(C) of an agreement between the parties dated February 11, 1952, with all other performance upon their part deemed complete. Paragraph 5(C) referring to Deer Trail Mines as vendor to Deluke as purchaser provides as follows:
+C. “To quit claim to purchaser on the 10th day of May, 1952, Forty-one thousand shares of the capital stock of Rainbo Gold Mines Corp., shown on the books of said corporation as the property of Patrick T. Henry. Vendor represents that this Forty-one Thousand shares was assigned to Vendor by Daisy W. Henry, executrix of the Estate of Patrick T. Henry and will warrant title to said stock against all acts affecting title to said stock by Vendor or Daisy W. Henry.”
+The intent of Deluke in purchasing the shares of Rainbo stock was to obtain control of that corporation. Deer Trail Mines proffered a Quit Claim Deed to the said 41,000 shares in contemplation of this agreement, but such proffer was rejected by Deluke on the ground that such stock could not be identified on the books as being in the name of Patrick T. Henry as provided in paragraph 5(C). Since the Rainbo stock could not be so identified, performance by Deer Trail Mines in accordance with paragraph 5(C) was not possible from the inception of the agreement. It developed at the trial that the 41,000 shares assumed by the parties to belong to Henry was part of stock which was in escrow with the Securities Commission of the State of Delaware. It was also brought out that Wilhelm, individually, owned certain shares of Rainbo Gold Mines Corporation.
+The lower court held that before Deluke should be required to make further payment due on the agreement he was entitled-to have assigned to him and placed in escrow for him certificates of stock covering all shares owned by Wilhelm individually, or Deer Trail Mines in the Rainbo Gold Mines Corporation of Delaware up to 41,-000 shares. In the event that Wilhelm and Deer Trail owned less than 41,000 shares, they were given the option of obtaining the additional shares or crediting the payment due from Deluke with any deficiency at the rate of ten cents per share. After performance by Wilhelm and Deer Trail' Mines, (which was accomplished in accordance with the terms of the lower court’s decree) Deluke was given a period of thirty days to pay the amount due and owing under the 'terms of the contract. If Deluke failed to perform within thirty days he was to be considered in default and suffer forfeitures provided for in said contract. The lower court awarded no damages.
+The appellant Deluke raises the following issues for this court’s consideration:
+(1) The lower court failed to award De-luke specific performance or damages for breach of contract.
+(2) The action of the lower court improperly re-wrote the contract and improperly imposed additional obligations upon the parties.
+The complexity of the dealings of these parties has led to the infusion of a goodly amount of surplusage into the record. Certainly, the -lowetf court’s implied finding that there was a breach of performance by Deer Trail Mines was justified. The confusion of the stock records of the Rainbo Gold Mines Corporation led the court to seek an equitable solution. In directing Wilhelm and Deer Trail Mines to convey all stock in Rainbo which they possessed up to 41,000 shares, the court directed performance by them in excess of the agreement of which action the respondent makes no complaint.
+As to the issue of damages, a careful examination of the record brings to light no proof’from which the court could base a finding of the amount of pecuniary damages, if any, which was suffered by Deluke due to the breach of performance by Deer Trail Mines or Wilhelm. Deluke’s further contention that the value of ten cents per share placed upon the stock by the trial court is unwarranted is likewise untenable. The finding was derived by the court from evidence of the negotiations of the parties leading up to the execution of the contract here involved. During such negotiations it was orally agreed that De-luke would be given 441,000 shares of the stock for a stated consideration. However, when it became questionable whether 41,000 shares of that amount could be located, the contract as executed called for 400,000 shares to be conveyed to Deluke and a quit claim executed of the 41,000 shares. The consideration to be paid by Deluke as orally agreed upon was, as a consequence reduced by $4,000. Furthermore, in an exhibit introduced by Deluke entitled “Outline of Settlement Agreement” it is recited that the Rainbo Gold Mining Corporation stock was to be sold to Deluke for ten cents per share. Deluke introduced no evidence of market value of such stock.
+The decree of the lower court is supported by substantial evidence. It is, therefore affirmed. Costs to respondent.
+CROCKETT, WADE, WORTHEN and HENRIOD, JJ., concur.
