@@ -1,0 +1,25 @@
+---
+court: "Utah Supreme Court"
+decided: "1893-06"
+citations: ["9 Utah 46"]
+reporter: "utah"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MineR, J., and Bartoh, J., concurred."]
+parties: ["LESTER T. ROGERS, Appellant, v. JENNIE V. THOMPSON and Others, Respondents."]
+source_url: "https://static.case.law/utah/9/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8871570
+cites_cases: ["16 Wall. 331"]
+---
+
+# Rogers v. Thompson
+
+## Majority (Zane, C. J.:)
+
+Zane, C. J.:
+This is an appeal from an order of the court below sustaining defendant's demurrer to plaintiffs complaint, on the ground that it did not state facts sufficient to consti-inte a cause of action, and from a judgment dismissing tbe suit. This action was brought to recover a one-fourth interest in lot 8 in block 68, plat A, Salt Lake City. The plaintiff alleged in his complaint that Isaac Rogers was in possession of the premises in 1849, when he died; that Mary M. Rogers, his widow, and Franconya M. Miller, Mary E. Derr, Isaac Rogers, and Lester T. Rpgers, the plaintiff, were his sole heirs; that the widow was' in possession of it.when she died in 1853. It also appears from the complaint that the United States, on June 1, 1872, issued a patent, in pursuance of an act of congress, known as the “Town-Site Law,” to numerous tracts of land, including the one in dispute, to Daniel H. Wells, mayor of Salt Lake City, in trust for the several use and benefit of the occupants thereof, according to their resjoec-tive interests; that in May, 1873, undivided portions of the lands in dispute were conveyed by the mayor of Salt Lake City to James Townsend and Thomas Hawkins. It -also appears from the complaint that Isaac Rogers did not bring the plaintiff with him when he moved to Salt Lake City in 1848, and that the plaintiff did not know until 1890 that his father held a possessory right to this land at the time of his death.
+In the absence of proof to the contrary, we must presume that the deeds of the mayor of Salt Lake City to Townsend and Hawkins were made by authority and in pursuance of an act of the territorial legislature in force .February 17, 1869, and the amendments thereto (2 Comp. Laws Utah 1888, p. 144.) Section 1 of this act declares that “when the corporate authorities of any * * * •city * * * shall have entered * * * the land * * * occupied as the site of such * * * city pursuant to and by virtue of the provisions of the act of congress entitled fAn act for the relief of the inhabitants of cities and towns ’ upon the public lands, approved March 2, 1867, and any amendments that may be made thereto, it shall be the duty of such corporate authorities, * * * and they are * * * required, * * * to convey the title * * * to the several blocks, lots, parcels, or shares thereof to the person entitled thereto, to be ascertained” in the manner prescribed therein.
+The next section requires the corporate authorities, within thirty days after the entry, to give public notice thereof in at least five public places within such city, and by publishing such notice in some newspaper printed and published in the Territory, having a general circulation in such city. The notice, containing an accurate description of the land entered, is required to be published once each week for at least three successive months, and Section 2817 requires each person claiming any part of the land to deliver to the clerk of the probate court of the county, within six months after the publication of such notice, a statement containing an accurate description of the land claimed, and it declares that all persons failing to deliver such statement within the time limited, or the time as extended, shall be barred -of the right to claim such land, or any interest therein. Other sections of the act prescribe the proceedings necessary when there are adverse claims, or when there are not, and in either case the probate court is required to hear- the matter on proofs, and decide in favor of the applicant entitled to a deed, if any is found to be entitled to-it, and to certify the proceedings and judgment to the mayor of the city, who is required to make the deed to the claimant so ascertained. The law also gives any contesting claimant the right of appeal from the judgment of the probate court or the district court. This proceeding before the probate court and decision must be regarded as having the effect of a judgment. In view of the allegations of the plaintiff’s complaint, we must regard his right to an interest in the land described as barred. Cofield v. McClelland, 16 Wall. 331. The facts alleged in the complaint do not authorize the court to say that the defend-, ants, or any of them, hold the one-fourth interest claimed by the plaintiff in trust for him.
+We are of the opinion that the facts stated in the complaint do not constitute a cause of action. The judgment of the court below is affirmed.
+MineR, J., and Bartoh, J., concurred.
