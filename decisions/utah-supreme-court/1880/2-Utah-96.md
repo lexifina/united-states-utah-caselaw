@@ -1,7 +1,8 @@
 ---
 court: "Utah Supreme Court"
 decided: "1880-06"
-citations: ["2 Utah 96", "2 Utah 281"]
+decided_precision: "month"
+citations: ["2 Utah 96"]
 reporter: "utah"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
