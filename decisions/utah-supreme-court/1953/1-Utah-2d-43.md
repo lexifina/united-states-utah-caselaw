@@ -1,0 +1,38 @@
+---
+court: "Utah Supreme Court"
+docket: "7828"
+decided: "1953-10-16"
+citations: ["1 Utah 2d 43", "261 P.2d 950"]
+reporter: "utah-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["WOLFE, C. J., and CROCKETT, HENRIOD and WADE, JJ., concur."]
+parties: ["MURRAY et al. v. MILLER et al."]
+source_url: "https://static.case.law/utah-2d/1/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 62906
+cites_cases: ["114 Utah 345", "37 Utah 392", "45 Utah 255", "69 Utah 194", "74 Utah 206"]
+---
+
+# Murray v. Miller
+
+## Majority (McDonough, Justice.)
+
+McDonough, Justice.
+Intermediate appeal to determine whether the lower • court abused its discretion in allowing the cross-complainants to file an amended cross-complaint. We include here only those facts necessary to dispose of this question.
+The appellants are H. C. Workman and Thelma Workman, grantees of the property by deed from Lavina S. Roberts, who is the widow of Harry Roberts and mother of the cross-complainants and respondents. Stanolind Oil and Gas Company, lessee of the property under an agreement with the Workmans, also appeals. The action was begun by plaintiffs in 1947 to quiet title to the land against the heirs of Harry Roberts, and the other parties were subsequently joined by the heirs, respondents here, who ask that title be quieted in them. Plaintiffs are not parties to this appeal.
+By their first cross-complaint, respondents pleaded that title should be quieted in them to two-thirds undivided interest in property described as:
+“The Southwest quarter and the South half of the Northwest quarter, Section 2: the East half of the east half of Section 3, all in Township 1 South, Range 2 West, Uintah Special Meridian.”
+Further they alleged that to part of the same property described as:
+“Lot 1, Section 3, of Township 1 South, Range 2 West, Uintah Special Meridian, containing 40 acres”
+an Auditor’s Tax Deed was issued in 1924 to the cross-defendant, Duchesne County, and that this deed was invalid. After the remainder of the property was sold to Duchesne County for non-payment of taxes in 1938, the county gave an Auditor’s Tax Deed for the entire property to Lavina S. Roberts in consideration of money paid for the purchase 'by cross-complainants. According to the complaint, she held the property in trust but thereafter conveyed by warranty deed without the knowledge of the cross-complainants to the appellants who “knew said land was owned and claimed by the said Lavina S. Roberts as wife of the said Harry Roberts, deceased, and by the defendants and cross-complainants, as sole heirs at law of Harry Roberts.”
+Appellants answered this original complaint by denying that Lavina S. Roberts held the land in trust for respondents and further, that if she did so hold as trustee, they had no knowledge of the trust and thus were bona fide purchasers. The court then allowed respondents to amend their complaint, in which amended complaint they merely alleged that they were owners by reason of inheritance of two-thirds undivided interest in the entire property. Thereafter, appellants filed a motion to dismiss the amended cross-complaint on the ground that it stated a completely different and new cause of action. Upon the denial of this motion, this appeal was taken.
+Although the question of whether or not, a complaint may be amended to state a new and different cause of action under our Utah Rules of Civil Procedure has been argued on appeal, we find it unnecessary to consider the point in view of the fact that the allegations of the original complaint, although inconsistent, raise both the issues of constructive trust and inheritance. In fact, reading the complaint as a whole, there appears to be more consistency in the allegations of inheritance. The complaint alleges that the deed to the county of 40 acres of the property, under which Mrs. Roberts is claimed to have taken the property as trustee, is invalid. Thus, at least to this portion of the property appellants were on notice that respondents claimed as heirs. In addition, rather than claiming that appellants knew of the constructive trust so as to prevent their cutting off the equitable title, the complaint alleges that they knew “said land was owned and claimed 'by the said La vina S. Roberts as wife of said Harry Roberts and by cross-complainants as sole heirs at law of Harry Roberts” and that “W. H. Coltharp knew that the said defendants and cross-complainants claimed an interest in said land by reason of their being the sole heirs at law of the said Harry Roberts.”
+It is true that appellants answered as though only the theory of a purchase-money constructive trust were raised, but their answer can in no way limit the scope of the complaint. Only the ninth, and possibly the tenth, paragraph of the cross-complaint contains language which appears as though respondents claimed as beneficiaries; the rest of the document, including the prayer for relief (asking for two-thirds undivided interest instead or aliquot parts in accordance with the amount bf purchase money contributed) appears to be based on the theory that their rights were grounded in the fact that they were heirs at law of the former property owner. Thus the amended complaint merely eliminated the inconsistent theory of constructive trust.
+It has been long established in this jurisdiction under code pleading that the ' plaintiff might state the facts establishing his right to recovery in more than one manner. As was said in Williams v. Nelson, 45 Utah 255, 145 P. 39, 41:
+[Where] “there is * * * doubt in the mind of the pleader with regard to whether he will be entitled to judgment ‘upon one ground or upon another,’ or where it is uncertain just what the evidence * * * may develop, the pleader may, nevertheless, state the facts constituting his right of recovery in different ways. This, under the code system, is denominated a ‘duplicate statement of one right of action,’ and, by some writers and courts, the dual statements are still denominated separate causes of action. To call such statements different causes of action, to our minds, is, however, illogical, not well considered, and is contrary to the true spirit of the Code, since one right of recovery, under the Code, is but a single cause of action.”
+The cross-defendants here were in no way hampered in their defense, even though the inference to be drawn from the one theory is that, other than the excepted deed above mentioned, the tax titles in the county and in Mrs. Roberts were valid, and under the other theory invalid. The two counts or causes of action could have been and were joined in one pleading under U. C.A. 104-7-3(5), 1943, and although the cross-complaint may have been objectionable because of indefiniteness, a poorly-drawn complaint is not reason for dismissing the action. Malmstrom v. Second East Apartment Co., 74 Utah 206, 278 P. 811. The amended cross-complaint cured the faults of the original.
+It is well recognized in this and other jurisdictions both under code pleading and the new rules that a complaint may be amended in order to clarify the issues at trial at the discretion of the trial court. Rule 15, Utah Rules of Civil Procedure; Keller v. Gerber, 114 Utah 345, 199 P.2d 562; Sargent v. Union Fuel Co., 37 Utah 392, 108 P. 928; Grover v. Cash, 69 Utah 194, 253 P. 676.
+' The trial court’s denial of the motion to dismiss the amended complaint is affirmed.
+Costs to respondents.
+WOLFE, C. J., and CROCKETT, HENRIOD and WADE, JJ., concur.
