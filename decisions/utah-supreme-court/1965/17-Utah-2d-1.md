@@ -1,0 +1,33 @@
+---
+court: "Utah Supreme Court"
+docket: "10268"
+decided: "1965-06-22"
+citations: ["17 Utah 2d 1", "403 P.2d 649"]
+reporter: "utah-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["CROCKETT, WADE, and CALLIS-TER, JJ., concur.", "HENRIOD, C. J., not participating."]
+parties: ["Constance H. BARRETT, Plaintiff and Respondent, v. Robert Michael BARRETT, Defendant and Appellant."]
+source_url: "https://static.case.law/utah-2d/17/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8862429
+cites_cases: ["120 Utah 573", "123 Utah 178", "257 P.2d 366", "5 Utah 2d 79", "92 Utah 255"]
+---
+
+# Barrett v. Barrett
+
+## Majority (McDonough, justice.)
+
+McDonough, justice.
+Defendant Robert Michael Barrett appeals from a decree which awarded the plaintiff Constance H. Barrett a divorce, custody of one minor child, $200.00 per month for the child’s support; $250.00 per month alimony; a property settlement of $15,000.00; and required the plaintiff to return to the defendant a diamond ring which cost about $9,500.00. The parties were married on October 21, 1961 in Mexico; went to live in Las Vegas, Nevada, where they resided together for a little over three months before separating. After their separation she gave birth to their child Michele and the parties moved back to Salt Lake City where they have since lived separately and finally this action was commenced.
+The defendant makes a not very impressive attempt at contending that the evidence fails to establish sufficient grounds for divorce, but we surmise not so much for the purpose of defeating the divorce as to have us consider the evidence for the purpose of attempting to minimize his faults and magnify hers. It now appears rather plain that this marriage was foredoomed to failure. Both parties had been married before. Plaintiff had three small children by a previous marriage and defendant had four somewhat older children by two previous marriages. It seems apparent that the varying interests of these parties, together with the same personality faults which in all likelihood caused the previous divorces were present as the seeds of failure and resulted in the present divorce.
+In approaching the question of the grounds for divorce one point made by the defendant is worthy of mention. When it appeared to the trial court that the purpose of the marriage had failed and that attempts at reconciliation had proved fruitless, in an attempt to avoid the parties’ besmirching each other by “washing their dirty linens in court,” asked counsel if they would stipulate that sufficient evidence had been presented to make grounds for divorce, to which they agreed. We have no disposition to dispute the contention of the defendant that the public, represented by the court, has an interest in the divorce proceedings and that it is not for the parties to stipulate that grounds for divorce is made out, but that evidence must be adduced upon which the trial court must make such findings. However, that point is moot in this case because there is sufficient evidence of defendant’s crude and inconsiderate treatment of the plaintiff to justify the trial court’s finding of mental cruelty. Such grounds having been established, and it plainly appearing that the marriage had disintegrated to the point where it would be folly to do otherwise than to dissolve it, the trial court has no other alternative than to grant a divorce and to make such arrangement with respect to the children and property rights as might provide the best possible foundation for the future of the parties.
+This court has taken occasion a number of times to set forth the various factors proper to be considered in determining the just and equitable settlement of the property rights of the parties in the event of a divorce, which we refer to without repeating here.
+The defendant is 52 years of age and has considerable means. He is the principal shareholder in the Barrett Investment Company and, as found by the trial court, has a net worth of about $1,-250,000.00. Plaintiff is 35, prior to this marriage she was employed by the State Department of Education and was earning about $350.00 per month. She owns real estate worth about $7,000.00; and she receives $200.00 per month child support from her first husband. When these resources are considered in the light of various factors pertinent to be considered we are impressed that the decree made by the trial court is in the main well advised and within the bounds of his discretion.
+The custody of the daughter Michele, now three years of age, is of course properly with the plaintiff and the $200.00 per month is a suitable award for her support. In view of the defendant’s comparative affluence the property settlement of $15,000.-00 is likewise appropriate; and there is no particular reason to disagree with the return of the $9,500.00 diamond ring. However, the award of $250.00 per month alimony on an indefinite basis we believe is not justified. This was a misadventure in marriage for both parties and was of comparatively short duration. The plaintiff is a young woman with a life expectancy of over 30 years so that award could amount to many thousands of dollars. It is true that she does have the responsibility of being a mother to Michele. Yet she had been married before and has other children. The actual care and support of Michele is presumably compensated for by the $200.00 per month. Further, it should not be assumed that the plaintiff is or will remain helpless. She held a responsible position prior to this marriage. It is our opinion that under all of the circumstances shown equity and justice will be served by placing some reasonable limitation upon the award of alimony and that after a period of two years it should cease.
+The decree is affirmed with the exception that the award of alimony shall terminate after it has been paid for two years. Inasmuch as this justified the appeal and defendant prevails to that extent, the parties shall each bear their own costs on appeal.
+CROCKETT, WADE, and CALLIS-TER, JJ., concur.
+HENRIOD, C. J., not participating.
+. “No decree of divorce shall be granted * * *, except upon legal evidence taken in the cause, * * *; and the court in all divorce cases shall make and file its findings and decree upon the evidence.” Section 30-3-4, U.C.A.1953.
+. See statement in Wilson v. Wilson, 5 Utah 2d 79, 296 P.2d 977; and Hendricks v. Hendricks, 123 Utah 178, 257 P.2d 366.
+. See Wilson v. Wilson, footnote 2 above; MacDonald v. MacDonald, 120 Utah 573, 236 P.2d 1066; and Pinion v. Pinion, 92 Utah 255, 67 P.2d 265.
