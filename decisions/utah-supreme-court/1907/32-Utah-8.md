@@ -1,0 +1,29 @@
+---
+court: "Utah Supreme Court"
+docket: "1778"
+decided: "1907-02-01"
+citations: ["32 Utah 8", "88 P. 679"]
+reporter: "utah"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["STRAUP, J., and LEWIS, District Judge, concur."]
+parties: ["WORTHEN et al. v. PERUVIAN CONSOL. MINING CO."]
+source_url: "https://static.case.law/utah/32/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8873546
+cites_cases: ["121 Cal. 376", "126 Cal. 322", "25 Utah, 187", "53 Pac. 821", "58 Pac. 824"]
+---
+
+# Worthen v. Peruvian Consol. Mining Co.
+
+## Majority (McCARTY, C. J.)
+
+McCARTY, C. J.
+This is an adverse suit brought under section 2326 of the Devised Statutes of the United States [U. S. Comp. St. 1901, p. 1430]. Plaintiffs, among other things, alleged in their complaint; (1) That ever since the 1st day of September, 1899, they, and their predecessors in interest have been the owners and in the actual possession of the Hobson Mine Lode claim (which, for the sake of brevity, will hereafter be referred to as the “Hobson Mine”) the same being 1,500 feet in length by 600 feet in width; (2) that the defendant, claiming to be the owner of a lode mining claim known as the “J. P. No. 1 Lode” (hereinafter referred to as the “J. P. No. 1”) contiguous to the Hobson mine, did, on or about the 24th day of July, 1904, wrongfully cause a survey of the J. P. No. 1 to be made so as to overlap' and include within the alleged boundaries thereof a portion of the Hobson mine, thereby causing a conflict area (describing it) between the two mines; (3) that on or about the 26th day of October, 1904, the said defendant made application for patent from the United States for the J. P. No. 1, in the United States Land Office at Salt Lake City, Utah; (4) that the register of the Land Office gave notice of the said application for patent by publication, as required by law; (5) that by said application for patent defendant wrongfully claimed and alleged that it was the owner and entitled to the possession of that portion of the Hobson mine above described ánd being in conflict with the said J. P. No. 1, said conflict area being a part of said Hobson mine; (6) that plaintiffs, within the time allowed by law, filed their protest and adverse claim to defendant’s said application for patent to the ground covered by the area in conflict. Defendant, by its answer, alleged, among other things, that it was the owner of tbe J. P. No. 1 and tbe conflict area between said claim and tbe Hobson mine, but it neither made nor asserted any claim to any ground witbin the boundaries, of tbe Hob-son mine, except that portion included in and covered by the area in conflict. The court, in its findings of fact and conclusions of law, found that plaintiffs were tbe owners abd entitled to tbe possession of tbe whole of tbe Hobson mine including that portion of tbe J. P. No. 1 in conflict with tbe Hobson mine. Judgment was entered in accordance with the findings of fact and conclusions of law.
+Tbe only question presented by this appeal is, did tbe court err in finding that plaintiffs were tbe owners and entitled to tbe possession of tbe ground witbin tbe Hobson mine other than that covered by tbe area in conflict, and in entering judgment quieting plaintiffs’ title tbe whole of tbe said claim. Appellant, in its answer, makes no claim to tbe ground included witbin tbe boundaries of tbe Hobson mine other than that portion which is included within the area in conflict. The court not only found that the area in conflict belonged to the respondents, but further found that “the claim of said defendant [appellant] under its application for patent to the J. P. No. 1 was wrongful and without right, and that the said defendant has no right, title, or interest, in or to said J. P. No. 1.” It will thus be 'seen that the court found against appellant on every ground upon which it based its right to the area in dispute, and as to these findings no complaint is made. And further, appellant does not claim that it is prejudiced by the findings upon which error is predicated. The law is well settled that a cause will not be reversed unless some right of the complaining party has been prejudicial!y affected by the rulings assigned as error. In 3 Cvc. 383, the rule is .tersely, and as we think, correctly stated as follows:
+“A judgment will not bo reversed for error which resulted in no prejudice to the party seeking to take advantage of it. The existence of nonprejudicial error in a case affords no ground for disturbing the judgment. There must be some element of prejudice inseparably connected with it.” (See numerous cases cited. R. G. W. Ry. Co. v. Utah Nursery Co., et al, 25 Utah, 187, 70 Pac. 859; 2 Spelling New Tr. & App. Pr. 689; Edwards v. Wagner, 121 Cal. 376, 53 Pac. 821; San Jose Ranch Co. v. San Jose L. & W. Co., 126 Cal. 322, 58 Pac. 824.)
+We think however, this question is set at rest in this state by legislative enactment. Section 4975, [Revised Statutes 1898, provides:
+“After hearing an appeal, the court must give judgment without regard to technical errors or defects or exceptions which do not affect the substantial rights of the parties.”
+We think this section of the statutes is intended to meet and dispose of just such questions as the one under consideration, and others of like character that may come before this court on appeal. As we have stated, appellant made no claim to any part of the ground within the boundaries of the Hobson mine not included within the area in conflict. Therefore, if it were conceded that the court erred in quieting respondent’s title to the ground within the lines of the Hobson claim outside of the area in dispute, the error would not prejudicially affect any substantial right of appellant.
+The judgment is affirmed, with costs.
+STRAUP, J., and LEWIS, District Judge, concur.
