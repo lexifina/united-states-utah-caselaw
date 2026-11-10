@@ -1,0 +1,5 @@
+path	relation	target	note
+decisions/utah-supreme-court/1898/18-Utah-15.md	same-decision-as	decisions/utah-supreme-court/1898/17-Utah-484.md	the same decision in another reporter (18 Utah 15 and 17 Utah 484), same day and text (similarity 0.98); both kept
+decisions/utah-supreme-court/1898/18-Utah-29.md	same-decision-as	decisions/utah-supreme-court/1898/17-Utah-469.md	the same decision in another reporter (18 Utah 29 and 17 Utah 469), same day and text (similarity 0.99); both kept
+decisions/utah-supreme-court/1898/18-Utah-3.md	same-decision-as	decisions/utah-supreme-court/1898/17-Utah-475.md	the same decision in another reporter (18 Utah 3 and 17 Utah 475), same day and text (similarity 0.99); both kept
+decisions/utah-supreme-court/1951/120-Utah-509.md	same-decision-as	decisions/utah-supreme-court/1951/119-Utah-32.md	the same decision in another reporter (120 Utah 509 and 119 Utah 32), same day and text (similarity 1.00); both kept
